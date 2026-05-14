@@ -36,4 +36,4 @@ I design and direct the architecture; AI is a core tool in my implementation wor
 
 - 📧 lucasarielfanelli@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/lucasarielfanelli)
-- 🌐 Portfolio: *coming soon*
+- 🌐 Portfolio: [Lucas Fanelli](https://portfolio-lucasfanelli.com/)
