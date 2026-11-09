@@ -1,6 +1,6 @@
 # Hi, I'm Lucas 👋
 
-**2nd-year CS + Math student at Universidad de Málaga · Building backend, mobile & AI projects with Claude Code**
+**3rd-year CS + Math student at Universidad de Málaga · Building backend, mobile & AI projects**
 
 📍 Vélez-Málaga, Spain &nbsp;·&nbsp; 🎓 Doble Grado Ing. Informática + Matemáticas (UMA), GPA 8.7/10 &nbsp;·&nbsp; 🟢 Open to internships
 
