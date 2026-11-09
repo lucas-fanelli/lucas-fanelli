@@ -15,7 +15,7 @@
   Recipe-sharing platform. *Live in production.*
 
 - **Withdrawal** &nbsp;—&nbsp; Game · C# · Unity 6
-  First-person psychological-horror game with a custom Event Bus, Phase Tracker and Quest System architecture. *In development. Public showcase coming soon.*
+  First-person psychological-horror game with a custom Event Bus, Phase Tracker and Quest System architecture. *In development.*
 
 ---
 
@@ -28,7 +28,7 @@ Architecture Clean Architecture · SOLID · MVVM · Event Bus · TDD · E2E test
 Tooling      Git · VS Code · IntelliJ IDEA · Claude Code
 ```
 
-I design and direct the architecture; AI is a core tool in my implementation workflow.
+Continuous learning and experimentation in AI Engineering and Software Architecture
 
 ---
 
